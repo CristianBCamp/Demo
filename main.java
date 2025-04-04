@@ -5,6 +5,5 @@ public class main {
         System.out.println("Agregamos una segunda linea");
         System.out.println("Agregamos una tercera linea");
         System.out.println("Agregamos una linea desde Visual Studio Code");
-        System.out.println("HOla");
     }
 }
